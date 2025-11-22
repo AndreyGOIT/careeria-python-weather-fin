@@ -32,6 +32,7 @@ def input_locations_loop():
 def main():
     init_db()
     input_locations_loop()
+    print(get_locations())
     # Далее: спросить про haun и т.д.
 
 if __name__ == "__main__":
