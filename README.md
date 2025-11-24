@@ -57,7 +57,7 @@ The log file is **not overwritten**, only appended.
 ---
 
 ## 📂 Project Structure
-
+```
 careeria-python-weather-fin/
 │
 ├── main.py                 # main program flow
@@ -67,7 +67,7 @@ careeria-python-weather-fin/
 ├── data.db                 # SQLite database
 ├── test_weather.py         # standalone weather test
 └── README.md
-
+```
 ---
 
 ## 🔧 Installation
